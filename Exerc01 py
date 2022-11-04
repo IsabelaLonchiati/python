@@ -1,0 +1,4 @@
+#caracter de comentário
+#printpara imprimir informações na tela
+print ('Olá mundo python')
+print ('Meu nome é: ',' Isabela')
